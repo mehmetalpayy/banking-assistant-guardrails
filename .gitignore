@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+
+# Env
+.env
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Gradio
+gradio_cached_examples/
+.gradio/
+
+# Test / lint
+.pytest_cache/
+.ruff_cache/
+htmlcov/
+.coverage
